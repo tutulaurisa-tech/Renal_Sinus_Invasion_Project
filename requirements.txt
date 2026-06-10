@@ -1,0 +1,22 @@
+# Core radiomics
+pyradiomics==3.1.0
+SimpleITK>=2.2.0
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+
+# Machine learning
+scikit-learn>=1.1
+torch>=1.13
+torch-geometric>=2.2
+
+# SHAP interpretability
+shap>=0.41
+
+# Genomics / statistics
+statsmodels>=0.13
+lifelines>=0.27
+
+# Visualisation
+matplotlib>=3.6
+seaborn>=0.12
